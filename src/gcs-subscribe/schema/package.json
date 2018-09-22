@@ -1,0 +1,11 @@
+{
+  "name": "gsc-trigger-by-schema",
+  "version": "0.0.1",
+  "dependencies" :
+{
+   "request" : "^2.84.0",
+   "request-promise": "^4.2.2",
+   "sync-request":"^6.0.0",
+   "uuid": "^3.0.1"
+}
+}
